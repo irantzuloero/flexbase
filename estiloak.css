@@ -11,10 +11,28 @@
 
 .left {
     flex: 0.25;
-    background-color: lightgreen;
+    background-color: white;
+    padding-left: 20px;
 }
 
 .right {
     flex: 0.75;
-    background-color: lightblue;
+    background-color: white;
 } 
+
+form{
+    margin-top:30px;
+}
+
+button{
+    border: 1px solid black;
+    color:black;
+    background-color:lightgrey; 
+    border-radius: 10%; 
+    width:30px; 
+    height:20px; 
+    font-size:15px;
+}
+img{
+    margin-top: 10px;
+}
